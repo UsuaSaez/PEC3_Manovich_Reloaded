@@ -24,6 +24,10 @@ La remediación se enfoca en cómo un medio se reinterpreta en otro, la hibridac
 
 
 
+
+
+
+
 ## Re-descubriendo la hibridación: HEADSPACE  DE NETFLIX.
 
 *Headspace* es una nueva serie de Netflix de 8 episodios, que ofrede una versión alegre y animada de los beneficios de la meditación, acompañada de técnicas y sesiones guiadas. Narrada y protagonizada por Andy Puddicombe.
@@ -56,6 +60,9 @@ Veamos unos ejemplos:
 
 ---------------------------------------------------------------------------------------------------------------------
   
+
+
+
 
 
 ## Re-descubriendo la hibridacion: Unreal Engine de EPIC GAMES.
