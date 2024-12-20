@@ -7,7 +7,7 @@ Autor: Usua Saez Martinez
 
 Fecha: 20/12/2024
 
-![Cultura Digital](![Uploading Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg…]()) 
+![Cultura Digital](![Uploading Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg…]) 
 
 
 
