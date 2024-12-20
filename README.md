@@ -25,9 +25,14 @@ La remediación se enfoca en cómo un medio se reinterpreta en otro, la hibridac
 
 
 
-## Re-descubriendo la hibridacion: 
+## Re-descubriendo la hibridacion: HEADSPACE  DE NETFLIX
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Headspace es una nueva serie de Netflix de 8 episodios, que ofrede una versión alegre y animada de los beneficios de la meditación, acompañada de técnicas y sesiones guiadas. Narrada y protagonizada por Andy Puddicombe.
+
+Headspace también provee recursos en línea de meditación guiada; accesibles al mundo a través de una pagina web y de su aplicación móvil para iPhone y Android.
+
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+
 
 
 
@@ -40,7 +45,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-* 
+* https://manovich.net/index.php/projects/understanding-hybrid-media
+* Referencias de extructura del trabajo: https://github.com/JuanEnriquePerez/PEC3_Manovich_Reloaded/tree/main
+* http://revistahipertextos.org/wp-content/uploads/2016/11/El-rol-de-Netflix-en-el-ecosistema-de-medios-y-telecomunicaciones.-Siri.pdf
+* https://es.wikipedia.org/wiki/Headspace
+* https://www.netflix.com/es/title/81280926
 
 
 ----
