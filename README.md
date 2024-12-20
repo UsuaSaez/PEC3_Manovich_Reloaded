@@ -9,7 +9,7 @@ Profesor:
 
 Fecha: 
 
-![Cultura Digital](https://admin.itsnicethat.com/images/-N-TfpgcW7VAvRy4hRHfuGL33Qo=/253013/format-webp%7Cwidth-1440/italic-studio-headspace-graphic-design-project-itsnicethat-01.png) 
+![Cultura Digital]() 
 
 
 
@@ -31,7 +31,7 @@ La remediación se enfoca en cómo un medio se reinterpreta en otro, la hibridac
 
 *Headspace* también provee recursos en línea de meditación guiada; accesibles al mundo a través de una pagina web y de su aplicación móvil para iPhone y Android.
 
-![Headspace](https://occ-0-8407-1722.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQhV58s_d_qMFNk4_yQyHhZl3Ma8LNpbwugx6hREYy5H59IJ7Y3BwO7TFUTjQSTVyV1fwnJnpA8VX8Uy7Q6tR7v762v-X8uobL2MFB5sioIEt9k1xyz3s0l5T02s1DY2Q_aEtA.jpg?r=7b2) 
+![Headspace](https://admin.itsnicethat.com/images/-N-TfpgcW7VAvRy4hRHfuGL33Qo=/253013/format-webp%7Cwidth-1440/italic-studio-headspace-graphic-design-project-itsnicethat-01.png) 
 
 La serie de *Headspace* de Netflix es un excelente ejemplo de como se da la hibridación de medios en el contexto de los nuevos medios digitales, en el contexto de Manovich. Ya que la serie vemos que combina varios elementos multimedia de diferentes formas para crear una experiencia informativa e interactiva. 
 
