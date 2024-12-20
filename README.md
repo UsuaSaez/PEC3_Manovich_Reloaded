@@ -73,11 +73,11 @@ Veamos unos ejemplos:
 
 - **Juegos y Narrativa cinematografica:**
 
-  La experiencia creada en *Unreal Engine* no solo se limitan a la jugabilidad, sino que tambien se dan elementos de edicion de video y elementos de creación de postproducción. Lo que podriamos crear  un buen ejemplo de hibridacion entre un medio de creación 3d para  efectos visuales para la narración cinematografica con un motor de videojuegos.
+  La experiencia creada en *Unreal Engine* no solo se limitan a la jugabilidad, sino que también se dan elementos de edición de video y elementos de creación de postproducción. Lo que podríamos crear un buen ejemplo de hibridación entre un medio de creación 3d para efectos visuales para la narración cinematografica con un motor de videojuegos.
 
 * **Integración de medios como 3D, 2D, animación y programación:**
 
-  *Unreal Engine* utiliza distintos tipos de contenido visual y escrito para crear proyectos. Enfocandonos en  la parte visual se pueden usar modelos 3D y graficos 2D que se integran perfectamentamente en un solo espacio. Tambien esta la parte de animación y cinematicas, que los creadores pueden integrar en un mismo espacio.
+  *Unreal Engine* utiliza distintos tipos de contenido visual y escrito para crear proyectos. Enfocandonos en la parte visual se pueden usar modelos 3D y gráficos 2D que se integran perfectamentamente en un solo espacio. También esta la parte de animación y cinematicas, que los creadores pueden integrar en un mismo espacio.
 
 
 **CONCLUSIÓN:**
