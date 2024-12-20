@@ -25,7 +25,7 @@ La remediación se enfoca en cómo un medio se reinterpreta en otro, la hibridac
 
 
 
-## Re-descubriendo la hibridacion: HEADSPACE  DE NETFLIX
+## Re-descubriendo la hibridación: HEADSPACE  DE NETFLIX
 
 Headspace es una nueva serie de Netflix de 8 episodios, que ofrede una versión alegre y animada de los beneficios de la meditación, acompañada de técnicas y sesiones guiadas. Narrada y protagonizada por Andy Puddicombe.
 
@@ -33,25 +33,25 @@ Headspace también provee recursos en línea de meditación guiada; accesibles a
 
 ![Headspace](https://occ-0-8407-1722.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQhV58s_d_qMFNk4_yQyHhZl3Ma8LNpbwugx6hREYy5H59IJ7Y3BwO7TFUTjQSTVyV1fwnJnpA8VX8Uy7Q6tR7v762v-X8uobL2MFB5sioIEt9k1xyz3s0l5T02s1DY2Q_aEtA.jpg?r=7b2) 
 
-La serie de Headspace de Netflix es un excelente ejemplo de como se da lhibridacion de medios en el contexto de los nuevos medios digitales, en el contexto de Manovich. Ya que la serie vemos que combina varios elementos multimedia de diferentes formas para crear una experiencia informativa e interactiva. 
+La serie de Headspace de Netflix es un excelente ejemplo de como se da la hibridación de medios en el contexto de los nuevos medios digitales, en el contexto de Manovich. Ya que la serie vemos que combina varios elementos multimedia de diferentes formas para crear una experiencia informativa e interactiva. 
 
 Veamos unos ejemplos:
 
-- Combinación de animacion y contenido educativo:
+- Combinación de animación y contenido educativo:
   
-  Headspace es una serie de animacion que habla de la meditación y la salud mental. Esta animación explica las ideas complejas de  una manera visualmente atractiva y sencilla, lo que fusiona el medio  tradicional de programas educativos con los elementos propios de la animacion para crear una experiencia educativa entretenida e informativa para todos
+  Headspace es una serie de animación, que habla de la meditación y la salud mental. Esta animación explica las ideas complejas de una manera visualmente atractiva y sencilla, lo que fusiona el medio tradicional de programas educativos con los elementos propios de la animación, para crear una experiencia educativa entretenida e informativa para todos los usuarios.
   
 * Interactividad:
 
-  Como hemos hablado antes Headspace tambiem tiene elementos interactivos como aplicaciónes moviles, esto rompe con el formato de las series o televisivo. Lo que hace que la persona no sea solo un sujeto pasivo, sino que tambien pueda jugar y pueda tener una experiencia mas activa y personalizada, lo que se alinea con la idea de la hibridación entre lo digital y lo tradicional
+  Como hemos hablado antes Headspace también tiene elementos interactivos, como aplicaciónes moviles, esto rompe con el formato de las series o televisivón. Lo que hace que la persona, no solo sea un sujeto pasivo, sino que también pueda jugar y pueda tener una experiencia mas activa y personalizada, lo que se alinea con la idea de la hibridación entre lo digital y lo tradicional.
   
 + nose nose k maaaaaaaaaa
   
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Unreal Engine de EPIC GAMES
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Unreal Engine 
 
 
 ### Referencias y Bibliografía
@@ -63,6 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * http://revistahipertextos.org/wp-content/uploads/2016/11/El-rol-de-Netflix-en-el-ecosistema-de-medios-y-telecomunicaciones.-Siri.pdf
 * https://es.wikipedia.org/wiki/Headspace
 * https://www.netflix.com/es/title/81280926
+* https://es.wikipedia.org/wiki/Unreal_Engine
 
 
 ----
