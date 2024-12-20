@@ -9,7 +9,7 @@ Profesor:
 
 Fecha: 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://admin.itsnicethat.com/images/-N-TfpgcW7VAvRy4hRHfuGL33Qo=/253013/format-webp%7Cwidth-1440/italic-studio-headspace-graphic-design-project-itsnicethat-01.png)) 
 
 
 
