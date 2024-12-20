@@ -31,8 +31,8 @@ La remediación se enfoca en cómo un medio se reinterpreta en otro, la hibridac
 
 *Headspace* también provee recursos en línea de meditación guiada; accesibles al mundo a través de una pagina web y de su aplicación móvil para iPhone y Android.
 
-![Headspace](![AAAABVNJ-LM8ZFiSsigHos3v4pzYxL-iINaS5y7QzZAYNuyezxIceQxKa01U0ErM2-V6OCg-DDd3dGC7TXIMJoknW5OvZ1NiBFHMSTnR](https://github.com/user-attachments/assets/af4147b1-1557-4522-9c39-f5d93c96b9ae)
-) 
+![Headspace](https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVNJ-LM8ZFiSsigHos3v4pzYxL-iINaS5y7QzZAYNuyezxIceQxKa01U0ErM2-V6OCg-DDd3dGC7TXIMJoknW5OvZ1NiBFHMSTnR.jpg?r=125) 
+
 
 La serie de *Headspace* de Netflix es un excelente ejemplo de como se da la hibridación de medios en el contexto de los nuevos medios digitales, en el contexto de Manovich. Ya que la serie vemos que combina varios elementos multimedia de diferentes formas para crear una experiencia informativa e interactiva. 
 
