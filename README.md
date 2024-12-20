@@ -7,8 +7,9 @@ Autor: Usua Saez Martinez
 
 Fecha: 20/12/2024
 
-![Cultura Digital](![Uploading Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg…]) 
 
+
+![Headspace](https://upload.wikimedia.org/wikipedia/commons/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg) 
 
 
 ## Planteamiento
