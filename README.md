@@ -4,12 +4,10 @@
 
 
 Autor: Usua Saez Martinez
-Profesor: 
 
+Fecha: 20/12/2024
 
-Fecha: 
-
-![Cultura Digital]() 
+![Cultura Digital](![Uploading Lev_Manovich_—_How_to_analyze_culture_using_social_networks.jpg…]()) 
 
 
 
