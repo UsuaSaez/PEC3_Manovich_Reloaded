@@ -31,7 +31,7 @@ Headspace es una nueva serie de Netflix de 8 episodios, que ofrede una versión 
 
 Headspace también provee recursos en línea de meditación guiada; accesibles al mundo a través de una pagina web y de su aplicación móvil para iPhone y Android.
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Headspace](https://occ-0-8407-1722.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQhV58s_d_qMFNk4_yQyHhZl3Ma8LNpbwugx6hREYy5H59IJ7Y3BwO7TFUTjQSTVyV1fwnJnpA8VX8Uy7Q6tR7v762v-X8uobL2MFB5sioIEt9k1xyz3s0l5T02s1DY2Q_aEtA.jpg?r=7b2) 
 
 
 
