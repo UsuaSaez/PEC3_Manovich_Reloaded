@@ -45,13 +45,25 @@ Veamos unos ejemplos:
 
   Como hemos hablado antes Headspace también tiene elementos interactivos, como aplicaciónes moviles, esto rompe con el formato de las series o televisivón. Lo que hace que la persona, no solo sea un sujeto pasivo, sino que también pueda jugar y pueda tener una experiencia mas activa y personalizada, lo que se alinea con la idea de la hibridación entre lo digital y lo tradicional.
   
-+ nose nose k maaaaaaaaaa
++ Narrativa tradicional y digital:
+
+  A pesar de que se habla de un tema muy humano y personal, trata el tema de manera digital, en la que se combinan elementos de videos, audio, música y gráficos. Utiliza medios narrativos digitales como la animación para contar historias del cuidado personal, o aportar información o clases de meditación.
+
+
+CONCLUSIÓN:
+
+Headspace es un ejemplo de hibridación muy bueno porque combina la educacion visual y narrativa de la serie de Netflix y su interactividad movil lo que ambos hacen que se enrriquezcan mutuamente. Los usuarios pueden ver la serie en Netflix aprendiendo a meditar y a enrriquecerse mentalmente y luego poner en practica lo aprendido en la app.
+
+----------------------------------------------------------------------------------------------------------------------
   
 
 
 ## Re-descubriendo la hibridacion: Unreal Engine de EPIC GAMES
 
-Unreal Engine 
+Unreal Engine es un motor de videojuegos credo por la compañia EpicGames, en 1998. Es una herramienta utilizada actualmente por muchos desarrolladores de juegos. También es utilizada para edición de video o creación de efectos especiales, ya que ha sido utilizada para series como el *Mandaloriano*.
+
+-
+
 
 
 ### Referencias y Bibliografía
